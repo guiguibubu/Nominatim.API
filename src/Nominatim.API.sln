@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27130.2010
+# Visual Studio 16
+VisualStudioVersion = 16.5.2
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nominatim.API", "Nominatim.API\Nominatim.API.csproj", "{3E753076-65E6-4F8E-8A14-8BA58F0C6E5F}"
 EndProject
